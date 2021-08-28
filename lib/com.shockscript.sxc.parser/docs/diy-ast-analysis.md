@@ -17,7 +17,6 @@ Use this document to track what nodes your program fully analyses.
   - [ ] Parentheses expression (`ParensExp`)
   - [ ] Dot operator: member or call operator (`MemberOrCallOp`)
   - [ ] Dot operator: member-only (`MemberOp`)
-  - [ ] Group operator (`GroupOp`)
   - [ ] Conditional expression (`CondExp`)
   - [ ] Unary operator (`UnaryOp`)
   - [ ] Binary operator (`BinOp`)
