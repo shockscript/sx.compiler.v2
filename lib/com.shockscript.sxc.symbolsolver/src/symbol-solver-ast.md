@@ -12,7 +12,6 @@
   - [ ] Nothing literal (`NothingLtr`)
   - [ ] Null literal (`NullLtr`)
   - [ ] Empty literal (`EmptyLtr`)
-  - [ ] Global literal (`GlobalLtr`)
   - [ ] Parentheses expression (`ParensExp`)
   - [ ] Dot operator: member or call operator (`MemberOrCallOp`)
   - [ ] Dot operator: member-only (`MemberOp`)
@@ -31,7 +30,6 @@
   - [ ] Null literal (`NullLtr`)
   - [ ] Empty literal (`EmptyLtr`)
   - [ ] Me literal (`MeLtr`)
-  - [ ] Global literal (`GlobalLtr`)
   - [ ] With dot operator for member or call  (`WithMemberOrCallOp`)
   - [ ] With dot operator for member-only (`WithMemberOp`)
   - [ ] Parentheses expression (`ParensExp`)
@@ -59,7 +57,6 @@
 - [ ] Function common (`FnCommon`)
 - [ ] Type expressions
   - [ ] Identifier (`Ident`)
-  - [ ] Global literal (`GlobalLtr`)
   - [ ] Member operator (`MemberOp`)
   - [ ] Nothing literal (`NothingLtr`)
   - [ ] Null literal (`NullLtr`)
